@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tuan2</string>
+    <string name="a">a = </string>
+    <string name="b">b = </string>
+    <string name="edtA_Hint">Nhập vào số a ... </string>
+    <string name="edtB_Hint">Nhập vào số b ...</string>
+    <dimen name="layout_margin">10dp</dimen>
+    <dimen name="margin_bottom">10dp</dimen>
+    <dimen name="margin_top">10dp</dimen>
+    <string name="lblResult">Result : </string>
+    <string name="adtResult_Hint">Kết quả</string>
+</resources>
